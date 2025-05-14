@@ -1,8 +1,12 @@
-# AI-ML..new-to-know
+# 👋 Welcome to AI-ML..new-to-know
 
-Welcome to **AI-ML..new-to-know**, a repository dedicated to exploring Artificial Intelligence and Machine Learning concepts through hands-on examples, projects, experiments, and learning resources.
+  Are you `new` to the world of Artificial Intelligence and Machine Learning?
+  
+  Do you want to `know` how real-world models and algorithms work under the hood?
 
-If you are `new`, then this repository provides a hands-on journey to `know` key algorithms and frameworks, using practical examples, real-world datasets, and Python code.
+This repository is built just for you — a hands-on journey to go from being new to knowing key concepts in AI and ML. Through practical examples, annotated notebooks, and real-world datasets, you'll explore fundamental techniques, modern frameworks, and advanced architectures using Python.
+
+Whether you're a beginner, student, or curious practitioner, AI-ML..new-to-know will guide your path from learning the basics to applying what you know with confidence.
 
 ---
 
@@ -25,7 +29,6 @@ If you are `new`, then this repository provides a hands-on journey to `know` key
 | [9. Advanced pandas](./Data%20Science/9.%20Advanced%20pandas.ipynb)                                                                           | MultiIndexing, reshaping, categorical data        |
 | [10. Data Analysis Examples](./Data%20Science/10.%20Data%20Analysis%20Examples.ipynb)                                                         | Real-world data manipulation case studies         |
 | [Data Science Interview Series✔️✅-1.pdf](./Data%20Science/Data%20Science%20Interview%20Series%E2%9C%94%EF%B8%8F%E2%9C%85-1.pdf)             | Common interview questions and concepts           |
-
 
 
 ### 📁 ML Notebooks
@@ -61,13 +64,17 @@ If you are `new`, then this repository provides a hands-on journey to `know` key
 
 ---
 
-📜 License
+## 📜 License & Usage
 
-This repository is intended to help you learn by doing.
+This repository is intended purely for educational purposes to help learners explore AI and ML concepts through practical examples and hands-on notebooks.
+
+  ⚠️ Note: Many of the contents, images, and resources used here are sourced or adapted from publicly available educational materials, courses, blogs, and books. While efforts have been made to provide attribution, some references may be incomplete or unintentionally omitted. If you identify any such case, feel free to raise an issue or pull request for correction.
 
 Feel free to modify the code, run experiments, and explore various techniques and applications.
 
-📬 Contact
+---
+
+## 📬 Contact
 
 Mailapalli Purushotham
 
