@@ -37,30 +37,30 @@ Whether you're a beginner, student, or curious practitioner, AI-ML..new-to-know 
 | ------------------------------------------------------------------------------------------------- | --------------------------------- |
 | [ML0\_Time Series Analysis](./ML0_Time%20Series%20Analysis.ipynb)                                 | Trend, seasonality, decomposition |
 | [ML1\_Linear Models](./ML1_Linear%20Models.ipynb)                                                 | Linear & Logistic Regression      |
-| [ML1\_Regression\_Analysis](./ML1_Regression%20Analysis.ipynb)                                    | Residuals, model evaluation       |
-| [ML2\_Support Vector Machines](./ML2_Support%20Vector%20Machines.ipynb)                           | SVM theory and kernel tricks      |
-| [ML3\_K\_means\_Clustering](./ML3_K_means%20Clustering.ipynb)                                     | Clustering techniques             |
-| [ML4\_Decision\_Trees](./ML4_Decision%20Trees.ipynb)                                              | ID3, Gini, pruning                |
-| [ML5\_Association\_Rule\_Mining](./ML5_Association%20Rule%20Mining.ipynb)                         | Apriori, support/confidence       |
-| [ML6\_Monte\_Carlo\_Methods](./ML6_Monte%20Carlo%20Methods.ipynb)                                 | Simulation-based methods          |
-| [ML7\_Reinforcement\_Learning](./ML7_Reinforcement%20Learning.ipynb)                              | Q-learning, reward maximization   |
-| [ML8\_Dimensionality\_Reduction\_Techniques](./ML8_Dimensionality%20Reduction%20Techniques.ipynb) | PCA, SVD, t-SNE, LDA              |
+| [ML1\_Regression\_Analysis](./ML1_Regression_Analysis.ipynb)                                    | Residuals, model evaluation       |
+| [ML2\_Support Vector Machines](./ML2_Support_Vector_Machines.ipynb)                           | SVM theory and kernel tricks      |
+| [ML3\_K\_means\_Clustering](./ML3_K_means_Clustering.ipynb)                                     | Clustering techniques             |
+| [ML4\_Decision\_Trees](./ML4_Decision_Trees.ipynb)                                              | ID3, Gini, pruning                |
+| [ML5\_Association\_Rule\_Mining](./ML5_Association_Rule_Mining.ipynb)                         | Apriori, support/confidence       |
+| [ML6\_Monte\_Carlo\_Methods](./ML6_Monte_Carlo_Methods.ipynb)                                 | Simulation-based methods          |
+| [ML7\_Reinforcement\_Learning](./ML7_Reinforcement_Learning.ipynb)                              | Q-learning, reward maximization   |
+| [ML8\_Dimensionality\_Reduction\_Techniques](./ML8_Dimensionality_Reduction_Techniques.ipynb) | PCA, SVD, t-SNE, LDA              |
 
 ### 📁 Neural Networks & Deep Learning
 
 | Notebook  / Resource                                                                     | Topics Covered                                      |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [NN0\_PyTorch\_Fundamentals](./NN0_PyTorch%20Fundamentals.ipynb)                         | Tensors, autograd, models                           |
-| [NN1\_DL\_Basics](./NN1_DL%20Basics.ipynb)                                               | Perceptrons, activation functions                   |
-| [NN2\_Neural\_Networks\_code\_practice](./NN2_Neural%20Networks%20code%20practice.ipynb) | Implementation of MLPs                              |
-| [NN3\_Optimization\_Techniques](./NN3_Optimization%20Techniques.ipynb)                   | Gradient descent variants, Adam                     |
+| [NN0\_PyTorch\_Fundamentals](./NN0_PyTorch_Fundamentals.ipynb)                         | Tensors, autograd, models                           |
+| [NN1\_DL\_Basics](./NN1_DL_Basics.ipynb)                                               | Perceptrons, activation functions                   |
+| [NN2\_Neural\_Networks\_code\_practice](./NN2_Neural_Networks_code_practice.ipynb) | Implementation of MLPs                              |
+| [NN3\_Optimization\_Techniques](./NN3_Optimization_Techniques_in_ML_Deep_Learning_Optimisation_Algorithms.ipynb)                   | Gradient descent variants, Adam                     |
 | [NN4\_CNN](./NN4_CNN.ipynb)                                                              | Convolutional layers, pooling, image classification |
 | [NN5\_RNN](./NN5_RNN.ipynb)                                                              | RNN, LSTM, BiLSTM, GRU                              |
-| [NN6\_Not\_AI](./NN6_Not%20AI.ipynb)                                                     | Transformer, GenAI, GAN, VAE                        |
+| [NN6\_Not\_AI](./NN6_Not_AI.ipynb)                                                     | Transformer, GenAI, GAN, VAE                        |
 | [NN7\_Autoencoders](./NN7_Autoencoders.ipynb)                                            | Encoder, Decoder, Types of autoencoders, VAE        |
-| [NN8\_Diffusion\_Models](./NN8_Diffusion%20Models.ipynb)                                 | DDPMs                                               |
+| [NN8\_Diffusion\_Models](./NN8_Diffusion_Models.ipynb)                                 | DDPMs                                               |
 | [NN9\_AutoML](./NN9_AutoML.ipynb)                                                        | HPO, NAS, Meta Learning, Auto-Sklearn               |
-| [NN10\_Graph\_Network\_Analysis](./NN10_Graph%20Network%20Analysis.ipynb)                | Graph Basics, Graph analysis, GNN basics            |
+| [NN10\_Graph\_Network\_Analysis](./NN10_Graph_Network_Analysis.ipynb)                | Graph Basics, Graph analysis, GNN basics            |
 
 ---
 
