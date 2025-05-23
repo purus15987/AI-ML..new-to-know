@@ -82,5 +82,5 @@ Mailapalli Purushotham
 
 🔗 GitHub: [https://github.com/purus15987](https://github.com/purus15987)
 
-🔗 LinkedIn: [https://www.linkedin.com/in/purushotham-mailapalli-0207471b3/](https://www.linkedin.com/in/purus15987/)
+🔗 LinkedIn: [https://www.linkedin.com/in/purus15987/](https://www.linkedin.com/in/purus15987/)
 
