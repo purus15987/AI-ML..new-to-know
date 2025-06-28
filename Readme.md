@@ -62,6 +62,18 @@ Whether you're a beginner, student, or curious practitioner, AI-ML..new-to-know 
 | [NN9\_AutoML](./NN9_AutoML.ipynb)                                                        | HPO, NAS, Meta Learning, Auto-Sklearn               |
 | [NN10\_Graph\_Network\_Analysis](./NN10_Graph_Network_Analysis.ipynb)                | Graph Basics, Graph analysis, GNN basics            |
 
+
+### 📁 [OpenCV](https://colab.research.google.com/drive/1JvcrQ6la0fesMziy9uFpLvFwKkfWWtmB?usp=sharing)
+- Open Source Computer Vision Library
+- A comprehensive personal repository of OpenCV projects
+    1. Image Transformations
+    2. Edge Detection Techniques
+    3. Feature detection and matching
+    4. Face and eye detection
+    5. Object detection and tracking
+    6. Background removal techniques
+    7. Texture Analysis and Synthesis
+
 ---
 
 ## 📜 License & Usage
